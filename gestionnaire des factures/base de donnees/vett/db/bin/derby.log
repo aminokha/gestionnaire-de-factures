@@ -1,0 +1,20 @@
+Tue May 16 11:37:33 GMT+01:00 2017 : Apache Derby Network Server - 10.11.1.2 - (1629631) démarré et prêt à accepter les connexions sur le port 1527
+----------------------------------------------------------------
+Tue May 16 11:37:40 GMT+01:00 2017:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) : instance a816c00e-015c-10d5-9a18-ffffa39fc225 
+dans le répertoire de base de données C:\Users\Amino\Documents\NetBeansProjects\JavaApplicationDB\vett\db\bin\vett avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1bbe9ba
+Chargé de file:/C:/Users/Amino/Documents/NetBeansProjects/JavaApplicationDB/vett/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=C:\Users\Amino\Documents\NetBeansProjects\JavaApplicationDB\vett\db\bin
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=C:\Users\Amino\Documents\NetBeansProjects\JavaApplicationDB\vett\db\bin
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
+----------------------------------------------------------------
+Tue May 16 11:38:13 GMT+01:00 2017 : fermeture du moteur Derby
+----------------------------------------------------------------
+Tue May 16 11:38:13 GMT+01:00 2017:
+Fermeture de l'instance a816c00e-015c-10d5-9a18-ffffa39fc225 sur le répertoire de base de données C:\Users\Amino\Documents\NetBeansProjects\JavaApplicationDB\vett\db\bin\vett avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1bbe9ba 
+----------------------------------------------------------------
